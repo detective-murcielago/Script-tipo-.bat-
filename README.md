@@ -12,7 +12,7 @@ Este script en **Batch (Windows .bat)** permite copiar automáticamente ciertos 
 
 ## ¿Cómo usarlo?
 
-1. Descarga el archivo `Murcielago.bat`.
+1. Descarga el archivo `murcielago2.bat`.
 2. Colócalo en cualquier carpeta donde desees crear la subcarpeta con los archivos recopilados.
 3. Haz doble clic para ejecutarlo (o ejecútalo desde `cmd.exe`).
 4. Al finalizar, verás un mensaje diciendo `Proceso completado`.
